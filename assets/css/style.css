@@ -1,0 +1,21 @@
+/* Navbar is started */
+
+.logo-resize {
+    width:20%;
+}
+
+.dropbackground {
+    background-color:#ff9b00;
+}
+
+a.nav-link.text-white:hover {
+    background-color:#006bff;
+    border-radius:5px;
+}
+
+
+.carousel-inner {
+    height:70vh
+}
+
+/* Navbar is ended */
