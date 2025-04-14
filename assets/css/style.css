@@ -18,4 +18,54 @@ a.nav-link.text-white:hover {
     height:70vh
 }
 
+
+
+.carousel-caption-custom {
+    position:absolute;
+    top:0;
+    left:0;
+    width:100%;
+    height:70vh;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    color:#FFFFFF;
+}
+
+
+.carousel-caption-custom h2{
+    background-color:#2a3cbc;
+    padding:30px;
+    border-radius:10px;
+}
+
+
+.carousel-caption-custom h2:hover{
+    background-color:#ffdd00;
+    color:#000000;
+}
+
 /* Navbar is ended */
+
+
+/* Feature is started */
+
+span.feature_hover_content {
+    position:absolute;
+    top:0;
+    left:0;
+    width:100%;
+    height:35vh;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    color:#FFFFFF;
+}
+
+/* Feature is ended */
+
+
+.footer {
+    background-color: #000000;
+    height: 100px;
+}
