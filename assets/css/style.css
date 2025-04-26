@@ -65,7 +65,23 @@ span.feature_hover_content {
 /* Feature is ended */
 
 
+/* Footer is started */
+
 .footer {
     background-color: #000000;
-    height: 100px;
 }
+
+a.footer-content {
+    text-decoration: none;
+}
+
+.footer-content-decoration:hover {
+    background-color:#094976;
+    padding-left:10px;
+    padding-top:5px;
+}
+
+.final-footer {
+    background-color: #17191a;
+}
+/* Footer is ended */
