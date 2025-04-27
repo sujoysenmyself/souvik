@@ -65,6 +65,33 @@ span.feature_hover_content {
 /* Feature is ended */
 
 
+
+/* Latest News is started */
+
+.latest_news{
+    background-color: #0d88b5;
+}
+
+.latest-news-border {
+    margin-top:10px;
+    margin-bottom:40px;
+    padding-left:3px;
+    padding-right:3px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #ffffff;
+}
+
+.latest-news-border:hover {
+    background-color: #ff9b00;
+}
+
+/* Latest News is ended */
+
+
+
+
 /* Footer is started */
 
 .footer {
